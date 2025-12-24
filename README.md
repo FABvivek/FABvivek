@@ -113,9 +113,9 @@ I consistently practice **Data Structures and Algorithms** to strengthen my prob
 ## 📫 Connect With Me
 
 - 🌐 GitHub: https://github.com/FABvivek
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vivek-singh-072242309
+- 📧 Email:vivekwillcode@gmail.com
 
 ---
 
-⭐ *Thanks for visiting my profile. Feel free to explore my repositories and star ⭐ if you find them useful.*
+
