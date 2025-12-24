@@ -104,23 +104,11 @@ I consistently practice **Data Structures and Algorithms** to strengthen my prob
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FABvivek&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FABvivek&theme=tokyonight" />
-</p>
 
 
 
----
+
+
 
 ## 📫 Connect With Me
 
